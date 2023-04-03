@@ -1,4 +1,6 @@
-function Packages(){
+
+
+function Packagelist(){
     return(
         <>
            <h3>Package 1</h3>
@@ -9,4 +11,4 @@ function Packages(){
     )
 }
 
-export default Packages
+export default Packagelist
