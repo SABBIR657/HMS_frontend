@@ -9,8 +9,8 @@ export default function MyLayout(props)
         <Header title={props.title} />
         <nav>
         <Link href="/"> Home</Link>
-        <Link href="/about"> About US</Link>
-        <Link href="./admin/about">Admin</Link>
+        <Link href="./admin/dashboard/about"> About US</Link>
+        <Link href="./about">Admin</Link>
         
         </nav>
         {/* <Image src="/ico.png" alt="me" width="64" height="64" /> */}
